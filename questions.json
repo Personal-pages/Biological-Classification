@@ -1,0 +1,847 @@
+[
+    {
+      "question": "Which of the following criteria was NOT considered by R.H. Whittaker for his Five Kingdom Classification?",
+      "options": ["Mode of nutrition", "Cell structure", "Presence of a nuclear membrane", "Phylogenetic relationships"],
+      "correct": 2
+    },
+    {
+      "question": "What makes Kingdom Monera unique compared to other kingdoms in Whittaker’s classification?",
+      "options": ["Presence of membrane-bound organelles", "Lack of a nuclear membrane", "Ability to perform photosynthesis", "Presence of a well-defined nucleus"],
+      "correct": 1
+    },
+    {
+      "question": "In archaebacteria, the cell membrane has a unique lipid composition different from eubacteria. What makes these lipids special?",
+      "options": ["They have branched-chain lipids linked via ether bonds", "They contain peptidoglycan layers", "They are composed of phospholipids similar to eukaryotes", "They have ester-linked fatty acids"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following best describes the relationship between Mycoplasma and cell wall?",
+      "options": ["Mycoplasma has a rigid cell wall", "Mycoplasma lacks a cell wall", "Mycoplasma has a partially developed cell wall", "Mycoplasma has a chitinous cell wall"],
+      "correct": 1
+    },
+    {
+      "question": "Which characteristic differentiates cyanobacteria from other members of Kingdom Monera?",
+      "options": ["They are the only photosynthetic prokaryotes", "They have a nucleus", "They possess chloroplasts", "They can only survive in extreme conditions"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following bacterial structures is responsible for motility?",
+      "options": ["Fimbriae", "Pili", "Flagella", "Capsule"],
+      "correct": 2
+    },
+    {
+      "question": "What is the key reason for the ability of methanogens to survive in extreme environments?",
+      "options": ["They have ester-linked membrane lipids", "They perform aerobic respiration", "They have ether-linked membrane lipids", "They have mitochondria"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following statements about eubacteria is false?",
+      "options": ["They have peptidoglycan in their cell wall", "They have a well-defined nucleus", "They are prokaryotic", "They reproduce asexually"],
+      "correct": 1
+    },
+    {
+      "question": "Why are Mycoplasmas considered unique among prokaryotes?",
+      "options": ["They have a well-defined nucleus", "They lack a cell wall", "They have membrane-bound organelles", "They undergo sexual reproduction"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following diseases is caused by a member of Kingdom Monera?",
+      "options": ["Tuberculosis", "Malaria", "Ringworm", "Influenza"],
+      "correct": 0
+    },
+    {
+      "question": "Which feature distinguishes archaebacteria from eubacteria?",
+      "options": ["Presence of nuclear membrane", "Lack of cell wall", "Different cell membrane composition", "Presence of mitochondria"],
+      "correct": 2
+    },
+    {
+      "question": "What is the role of heterocysts in cyanobacteria?",
+      "options": ["Photosynthesis", "Nitrogen fixation", "Pathogenesis", "Spore formation"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of fungi?",
+      "options": ["They are heterotrophic", "They possess chitinous cell walls", "They have chlorophyll", "They reproduce via spores"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these protists causes malaria?",
+      "options": ["Paramecium", "Plasmodium", "Amoeba", "Euglena"],
+      "correct": 1
+    },
+    {
+      "question": "What type of reproduction is exhibited by most fungi?",
+      "options": ["Only sexual reproduction", "Only asexual reproduction", "Both sexual and asexual reproduction", "Binary fission"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following organisms is a unicellular fungus?",
+      "options": ["Penicillium", "Rhizopus", "Yeast", "Aspergillus"],
+      "correct": 2
+    },
+    {
+      "question": "Which group of organisms is placed in Kingdom Protista?",
+      "options": ["Bacteria", "Viruses", "Algae, protozoa, and slime molds", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following statements about viruses is correct?",
+      "options": ["They are classified under Monera", "They can be crystallized", "They have a true cell structure", "They only reproduce outside a host"],
+      "correct": 1
+    },
+        {
+          "question": "Which kingdom in Whittaker’s classification includes prokaryotic organisms?",
+          "options": ["Protista", "Fungi", "Monera", "Plantae"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is a prokaryotic microorganism?",
+          "options": ["Amoeba", "Bacteria", "Paramecium", "Plasmodium"],
+          "correct": 1
+        },
+        {
+          "question": "What is the main component of the bacterial cell wall?",
+          "options": ["Cellulose", "Chitin", "Peptidoglycan", "Lignin"],
+          "correct": 2
+        },
+        {
+          "question": "Which group of organisms includes both autotrophs and heterotrophs?",
+          "options": ["Monera", "Fungi", "Plantae", "Animalia"],
+          "correct": 0
+        },
+        {
+          "question": "Which kingdom consists mostly of unicellular eukaryotic organisms?",
+          "options": ["Monera", "Protista", "Fungi", "Animalia"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following microorganisms is used in curd formation?",
+          "options": ["Rhizobium", "Lactobacillus", "Streptococcus", "Pseudomonas"],
+          "correct": 1
+        },
+        {
+          "question": "Which characteristic is unique to fungi?",
+          "options": ["They are always unicellular", "They lack a cell wall", "They have chitin in their cell wall", "They perform photosynthesis"],
+          "correct": 2
+        },
+        {
+          "question": "Which type of reproduction is common in bacteria?",
+          "options": ["Binary fission", "Budding", "Fragmentation", "Spore formation"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following is an example of an autotrophic bacterium?",
+          "options": ["Escherichia coli", "Rhizobium", "Cyanobacteria", "Pseudomonas"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is a characteristic of viruses?",
+          "options": ["They have a cellular structure", "They can reproduce only inside a host cell", "They possess both DNA and RNA", "They can perform metabolism independently"],
+          "correct": 1
+        },
+        {
+          "question": "Which kingdom in the five-kingdom classification includes organisms that do not have a well-defined nucleus?",
+          "options": ["Plantae", "Protista", "Monera", "Fungi"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is not a protist?",
+          "options": ["Amoeba", "Paramecium", "Spirogyra", "Plasmodium"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following bacteria is used in nitrogen fixation?",
+          "options": ["Escherichia coli", "Rhizobium", "Clostridium", "Lactobacillus"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is a fungal disease?",
+          "options": ["Malaria", "Tuberculosis", "Ringworm", "Dengue"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following organisms is used in the production of antibiotics?",
+          "options": ["Aspergillus", "Penicillium", "Rhizopus", "Saccharomyces"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is a characteristic of cyanobacteria?",
+          "options": ["They are eukaryotic", "They lack chlorophyll", "They perform photosynthesis", "They are always multicellular"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is a unicellular fungus?",
+          "options": ["Rhizopus", "Aspergillus", "Penicillium", "Yeast"],
+          "correct": 3
+        },
+        {
+          "question": "Which of the following organisms moves using cilia?",
+          "options": ["Amoeba", "Plasmodium", "Paramecium", "Euglena"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following microorganisms lacks a nucleus?",
+          "options": ["Amoeba", "Bacteria", "Paramecium", "Euglena"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is an example of an obligate parasite?",
+          "options": ["Fungi", "Bacteria", "Virus", "Algae"],
+          "correct": 2
+        },
+        {
+          "question": "Which group of algae is known for its silica cell wall?",
+          "options": ["Rhodophyceae", "Phaeophyceae", "Diatoms", "Chlorophyceae"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is not a mode of asexual reproduction in fungi?",
+          "options": ["Binary fission", "Budding", "Fragmentation", "Sporulation"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following groups of fungi reproduce using basidiospores?",
+          "options": ["Ascomycota", "Zygomycota", "Basidiomycota", "Deuteromycota"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following bacteria is rod-shaped?",
+          "options": ["Coccus", "Bacillus", "Vibrio", "Spirillum"],
+          "correct": 1
+        },
+    {
+      "question": "Which of the following statements about lichens is incorrect?",
+      "options": ["They are a symbiotic association between fungi and algae", "They can survive in harsh environments", "They contribute to soil formation", "They are classified under Plantae"],
+      "correct": 3
+    },
+    {
+      "question": "Diatoms belong to which of the following groups?",
+      "options": ["Protozoa", "Chrysophytes", "Dinoflagellates", "Euglenoids"],
+      "correct": 1
+    },
+    {
+      "question": "Which group of organisms is considered ‘plant-like protists’?",
+      "options": ["Protozoa", "Slime molds", "Euglenoids", "Fungi"],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following statements is true about dinoflagellates?",
+      "options": ["They are bioluminescent", "They have no flagella", "They have chitinous cell walls", "They are classified under Monera"],
+      "correct": 0
+    },
+    {
+      "question": "Why are fungi classified separately from plants?",
+      "options": ["They lack a cell wall", "They are heterotrophic", "They have chlorophyll", "They do not reproduce"],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following statements about slime molds is incorrect?",
+      "options": ["They resemble both fungi and protozoa", "They produce spores with cell walls", "They are always unicellular", "They form aggregates called plasmodium"],
+      "correct": 2
+    },
+      {
+        "question": "Which of the following is a distinguishing feature of Euglenoids that makes them different from both plants and animals?",
+        "options": ["They have a chitinous cell wall", "They lack flagella", "They can be both autotrophic and heterotrophic", "They reproduce sexually only"],
+        "correct": 2
+      },
+      {
+        "question": "Why are viruses considered an exception in the classification of living organisms?",
+        "options": ["They are unicellular but have a nucleus", "They have DNA but lack a plasma membrane", "They exhibit characteristics of both living and non-living entities", "They have mitochondria but no ribosomes"],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following bacterial cell structures is responsible for antibiotic resistance?",
+        "options": ["Cell wall", "Plasmid", "Ribosome", "Capsule"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following is NOT a characteristic of Kingdom Protista?",
+        "options": ["They are mostly unicellular", "They include both autotrophic and heterotrophic organisms", "They lack membrane-bound organelles", "They reproduce sexually and asexually"],
+        "correct": 2
+      },
+      {
+        "question": "What is the primary function of cyanobacteria in aquatic ecosystems?",
+        "options": ["Decomposing dead matter", "Fixing atmospheric nitrogen", "Producing antibiotics", "Providing oxygen only through respiration"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following features is NOT shared by archaebacteria and eubacteria?",
+        "options": ["Absence of a nuclear membrane", "Presence of a peptidoglycan cell wall", "Asexual reproduction", "Presence of 70S ribosomes"],
+        "correct": 1
+      },
+      {
+        "question": "Slime molds are unique in their mode of nutrition because:",
+        "options": ["They are exclusively autotrophic", "They ingest food by phagocytosis and absorb nutrients externally", "They rely entirely on photosynthesis", "They can fix atmospheric nitrogen"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following organisms exhibits conjugation as a form of reproduction?",
+        "options": ["Amoeba", "Plasmodium", "Paramecium", "Euglena"],
+        "correct": 2
+      },
+      {
+        "question": "How do dinoflagellates contribute to harmful algal blooms in marine ecosystems?",
+        "options": ["They release neurotoxins affecting marine life", "They increase the oxygen content in water", "They decompose organic matter rapidly", "They fix atmospheric nitrogen"],
+        "correct": 0
+      },
+      {
+        "question": "Which fungal structure is responsible for the production of spores?",
+        "options": ["Mycelium", "Hyphae", "Sporangium", "Rhizoid"],
+        "correct": 2
+      },
+      {
+        "question": "What makes basidiomycetes unique compared to other fungal groups?",
+        "options": ["They reproduce only asexually", "They have flagellated spores", "They produce basidiospores on a club-shaped structure", "They lack a hyphal network"],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following components is absent in Mycoplasma?",
+        "options": ["Cell membrane", "Ribosomes", "Cell wall", "Plasma membrane"],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following is NOT a characteristic of viruses?",
+        "options": ["They contain either DNA or RNA", "They reproduce independently of a host", "They lack cellular structure", "They are obligate intracellular parasites"],
+        "correct": 1
+      },
+      {
+        "question": "What distinguishes lichens from fungi?",
+        "options": ["They do not form spores", "They are a mutualistic association of fungi and algae", "They reproduce only sexually", "They are autotrophic"],
+        "correct": 1
+      },
+      {
+        "question": "What makes Rhizopus different from yeast?",
+        "options": ["Rhizopus is unicellular, while yeast is multicellular", "Rhizopus has mycelium, while yeast does not", "Yeast belongs to Basidiomycetes, while Rhizopus belongs to Ascomycetes", "Yeast reproduces only sexually"],
+        "correct": 1
+      },
+      {
+        "question": "Why are deuteromycetes called 'imperfect fungi'?",
+        "options": ["They reproduce only sexually", "They reproduce only asexually", "They have no defined hyphal structure", "They are incapable of forming spores"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following statements about bacteriophages is correct?",
+        "options": ["They infect fungi", "They have both DNA and RNA", "They infect bacteria", "They reproduce outside living cells"],
+        "correct": 2
+      },
+      {
+        "question": "Which of the following organisms does NOT belong to Kingdom Protista?",
+        "options": ["Diatoms", "Euglena", "Paramecium", "Rhizopus"],
+        "correct": 3
+      },
+      {
+        "question": "Which of the following is NOT an economic importance of fungi?",
+        "options": ["Production of antibiotics", "Decomposition of organic matter", "Photosynthesis", "Fermentation in bread-making"],
+        "correct": 2
+      },
+      {
+        "question": "How does the absence of a cell wall in Mycoplasma make it unique?",
+        "options": ["It allows it to be gram-negative", "It makes it resistant to penicillin", "It prevents it from reproducing", "It enables it to perform photosynthesis"],
+        "correct": 1
+      },
+      {
+        "question": "What role do symbiotic bacteria in root nodules play in plant nutrition?",
+        "options": ["They break down cellulose", "They fix atmospheric nitrogen into usable forms", "They decompose organic matter", "They produce growth hormones"],
+        "correct": 1
+      },
+      {
+        "question": "Which of the following pairs is correctly matched?",
+        "options": ["Basidiomycetes - Bread mold", "Ascomycetes - Penicillium", "Deuteromycetes - Yeast", "Phycomycetes - Mushroom"],
+        "correct": 1
+      },
+      {
+        "question": "Why is the five-kingdom classification system preferred over the two-kingdom system?",
+        "options": ["It differentiates prokaryotes from eukaryotes", "It recognizes that fungi are more closely related to plants", "It includes viruses as a separate kingdom", "It classifies all unicellular organisms together"],
+        "correct": 0
+      },
+      {
+        "question": "Which of the following features is NOT used to classify organisms in the five-kingdom system?",
+        "options": ["Mode of nutrition", "Type of cell", "Reproductive strategy", "Size of the organism"],
+        "correct": 3
+      },
+      {
+        "question": "What is the significance of peptidoglycan in bacterial cell walls?",
+        "options": ["It provides protection against antibiotics", "It determines Gram-positive and Gram-negative classification", "It allows bacteria to perform photosynthesis", "It enables bacterial motility"],
+        "correct": 1
+      },
+        {
+          "question": "Which of the following is a distinguishing feature of Euglenoids that makes them different from both plants and animals?",
+          "options": ["They have a chitinous cell wall", "They lack flagella", "They can be both autotrophic and heterotrophic", "They reproduce sexually only"],
+          "correct": 2
+        },
+        {
+          "question": "Why are viruses considered an exception in the classification of living organisms?",
+          "options": ["They are unicellular but have a nucleus", "They have DNA but lack a plasma membrane", "They exhibit characteristics of both living and non-living entities", "They have mitochondria but no ribosomes"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following bacterial cell structures is responsible for antibiotic resistance?",
+          "options": ["Cell wall", "Plasmid", "Ribosome", "Capsule"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of Kingdom Protista?",
+          "options": ["They are mostly unicellular", "They include both autotrophic and heterotrophic organisms", "They lack membrane-bound organelles", "They reproduce sexually and asexually"],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary function of cyanobacteria in aquatic ecosystems?",
+          "options": ["Decomposing dead matter", "Fixing atmospheric nitrogen", "Producing antibiotics", "Providing oxygen only through respiration"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following features is NOT shared by archaebacteria and eubacteria?",
+          "options": ["Absence of a nuclear membrane", "Presence of a peptidoglycan cell wall", "Asexual reproduction", "Presence of 70S ribosomes"],
+          "correct": 1
+        },
+        {
+          "question": "Slime molds are unique in their mode of nutrition because:",
+          "options": ["They are exclusively autotrophic", "They ingest food by phagocytosis and absorb nutrients externally", "They rely entirely on photosynthesis", "They can fix atmospheric nitrogen"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following organisms exhibits conjugation as a form of reproduction?",
+          "options": ["Amoeba", "Plasmodium", "Paramecium", "Euglena"],
+          "correct": 2
+        },
+        {
+          "question": "How do dinoflagellates contribute to harmful algal blooms in marine ecosystems?",
+          "options": ["They release neurotoxins affecting marine life", "They increase the oxygen content in water", "They decompose organic matter rapidly", "They fix atmospheric nitrogen"],
+          "correct": 0
+        },
+        {
+          "question": "Which fungal structure is responsible for the production of spores?",
+          "options": ["Mycelium", "Hyphae", "Sporangium", "Rhizoid"],
+          "correct": 2
+        },
+        {
+          "question": "What makes basidiomycetes unique compared to other fungal groups?",
+          "options": ["They reproduce only asexually", "They have flagellated spores", "They produce basidiospores on a club-shaped structure", "They lack a hyphal network"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following components is absent in Mycoplasma?",
+          "options": ["Cell membrane", "Ribosomes", "Cell wall", "Plasma membrane"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is NOT a characteristic of viruses?",
+          "options": ["They contain either DNA or RNA", "They reproduce independently of a host", "They lack cellular structure", "They are obligate intracellular parasites"],
+          "correct": 1
+        },
+        {
+          "question": "What distinguishes lichens from fungi?",
+          "options": ["They do not form spores", "They are a mutualistic association of fungi and algae", "They reproduce only sexually", "They are autotrophic"],
+          "correct": 1
+        },
+        {
+          "question": "What makes Rhizopus different from yeast?",
+          "options": ["Rhizopus is unicellular, while yeast is multicellular", "Rhizopus has mycelium, while yeast does not", "Yeast belongs to Basidiomycetes, while Rhizopus belongs to Ascomycetes", "Yeast reproduces only sexually"],
+          "correct": 1
+        },
+        {
+          "question": "Why are deuteromycetes called 'imperfect fungi'?",
+          "options": ["They reproduce only sexually", "They reproduce only asexually", "They have no defined hyphal structure", "They are incapable of forming spores"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following statements about bacteriophages is correct?",
+          "options": ["They infect fungi", "They have both DNA and RNA", "They infect bacteria", "They reproduce outside living cells"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following organisms does NOT belong to Kingdom Protista?",
+          "options": ["Diatoms", "Euglena", "Paramecium", "Rhizopus"],
+          "correct": 3
+        },
+        {
+          "question": "Which of the following is NOT an economic importance of fungi?",
+          "options": ["Production of antibiotics", "Decomposition of organic matter", "Photosynthesis", "Fermentation in bread-making"],
+          "correct": 2
+        },
+        {
+          "question": "How does the absence of a cell wall in Mycoplasma make it unique?",
+          "options": ["It allows it to be gram-negative", "It makes it resistant to penicillin", "It prevents it from reproducing", "It enables it to perform photosynthesis"],
+          "correct": 1
+        },
+        {
+          "question": "What role do symbiotic bacteria in root nodules play in plant nutrition?",
+          "options": ["They break down cellulose", "They fix atmospheric nitrogen into usable forms", "They decompose organic matter", "They produce growth hormones"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following pairs is correctly matched?",
+          "options": ["Basidiomycetes - Bread mold", "Ascomycetes - Penicillium", "Deuteromycetes - Yeast", "Phycomycetes - Mushroom"],
+          "correct": 1
+        },
+        {
+          "question": "Why is the five-kingdom classification system preferred over the two-kingdom system?",
+          "options": ["It differentiates prokaryotes from eukaryotes", "It recognizes that fungi are more closely related to plants", "It includes viruses as a separate kingdom", "It classifies all unicellular organisms together"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following features is NOT used to classify organisms in the five-kingdom system?",
+          "options": ["Mode of nutrition", "Type of cell", "Reproductive strategy", "Size of the organism"],
+          "correct": 3
+        },
+        {
+          "question": "What is the significance of peptidoglycan in bacterial cell walls?",
+          "options": ["It provides protection against antibiotics", "It determines Gram-positive and Gram-negative classification", "It allows bacteria to perform photosynthesis", "It enables bacterial motility"],
+          "correct": 1
+        },
+        {
+          "question": "Which unique feature of retroviruses allows them to integrate their genetic material into the host genome?",
+          "options": ["They lack a protein coat", "They use reverse transcriptase to synthesize DNA from RNA", "They directly synthesize proteins from RNA", "They replicate independently without a host"],
+          "correct": 1
+        },
+        {
+          "question": "In bacterial conjugation, what is the role of the F-plasmid?",
+          "options": ["It provides resistance against antibiotics", "It allows bacteria to photosynthesize", "It carries genes that enable the formation of pili for DNA transfer", "It helps bacteria form spores"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is NOT a feature of Kingdom Monera?",
+          "options": ["Presence of a nuclear membrane", "Absence of membrane-bound organelles", "Possession of a single circular chromosome", "Binary fission as the mode of reproduction"],
+          "correct": 0
+        },
+        {
+          "question": "Which structure in fungi is responsible for the absorption of nutrients?",
+          "options": ["Hyphae", "Sporangia", "Chloroplasts", "Flagella"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following organisms is used extensively in genetic engineering due to its ability to transfer genes to plants?",
+          "options": ["Rhizobium", "Agrobacterium tumefaciens", "Mycoplasma", "Cyanobacteria"],
+          "correct": 1
+        },
+        {
+          "question": "What makes viruses different from viroids?",
+          "options": ["Viruses have a protein coat, while viroids are only naked RNA", "Viruses lack genetic material, while viroids have DNA", "Viroids are larger than viruses", "Viroids can infect bacteria, while viruses cannot"],
+          "correct": 0
+        },
+        {
+          "question": "Which feature helps halophilic archaebacteria survive in extreme salt concentrations?",
+          "options": ["They produce specialized salt-stabilizing proteins", "They lack a cell wall", "They have peptidoglycan in their cell walls", "They use glycolysis instead of respiration"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following statements about prions is incorrect?",
+          "options": ["They are infectious proteins", "They contain nucleic acids", "They cause neurodegenerative diseases", "They can induce misfolding in normal proteins"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following statements about bacterial endospores is true?",
+          "options": ["They are reproductive structures", "They help bacteria survive harsh conditions", "They are formed by binary fission", "They contain a lipid membrane"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following diseases is caused by Mycoplasma?",
+          "options": ["Tuberculosis", "Typhoid", "Atypical pneumonia", "Tetanus"],
+          "correct": 2
+        },
+        {
+          "question": "How do cyanobacteria contribute to the nitrogen cycle?",
+          "options": ["They convert ammonia to nitrate", "They fix atmospheric nitrogen into organic forms", "They produce nitrogen through respiration", "They break down nitrates into nitrogen gas"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is a major characteristic that differentiates slime molds from true fungi?",
+          "options": ["Slime molds lack a cell wall made of chitin", "Slime molds reproduce only sexually", "Slime molds have chlorophyll", "Slime molds can fix nitrogen"],
+          "correct": 0
+        },
+        {
+          "question": "Which fungal division includes the common bread mold Rhizopus?",
+          "options": ["Ascomycota", "Basidiomycota", "Zygomycota", "Deuteromycota"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following structures is unique to archaebacteria?",
+          "options": ["Peptidoglycan cell wall", "Ether-linked membrane lipids", "Double nuclear membrane", "Chloroplasts"],
+          "correct": 1
+        },
+        {
+          "question": "Why are Deuteromycetes called 'imperfect fungi'?",
+          "options": ["They lack reproductive structures", "They reproduce only asexually", "They cannot perform photosynthesis", "They have no known economic use"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following correctly differentiates Gram-positive bacteria from Gram-negative bacteria?",
+          "options": ["Gram-positive bacteria lack a cell wall", "Gram-negative bacteria have a thick peptidoglycan layer", "Gram-positive bacteria retain the crystal violet stain due to a thick peptidoglycan layer", "Gram-negative bacteria lack an outer membrane"],
+          "correct": 2
+        },
+        {
+          "question": "Which fungal structure produces spores in Ascomycota?",
+          "options": ["Basidium", "Conidia", "Ascus", "Sporangium"],
+          "correct": 2
+        },
+        {
+          "question": "What role do saprophytic fungi play in the ecosystem?",
+          "options": ["They cause diseases in plants", "They act as decomposers by breaking down dead organic matter", "They fix atmospheric nitrogen", "They absorb sunlight for photosynthesis"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is the most primitive bacterial mode of locomotion?",
+          "options": ["Cilia", "Pseudopodia", "Flagella", "Jet propulsion"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following statements about diatoms is false?",
+          "options": ["They have silica in their cell walls", "They are important oxygen producers", "They are heterotrophic", "Their remains form diatomaceous earth"],
+          "correct": 2
+        },
+        {
+          "question": "What is the major mode of reproduction in fungi?",
+          "options": ["Binary fission", "Budding", "Spore formation", "Vegetative propagation"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is NOT an example of symbiotic bacteria?",
+          "options": ["Rhizobium", "Mycobacterium", "Frankia", "Anabaena"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following structures allows bacteria to exchange genetic material?",
+          "options": ["Capsule", "Pili", "Flagella", "Endospore"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following best explains why Mycoplasma species are resistant to antibiotics targeting cell wall synthesis?",
+          "options": ["They have a highly modified peptidoglycan layer", "They possess an outer membrane rich in lipopolysaccharides", "They completely lack a cell wall", "They rapidly mutate to evade antibiotic action"],
+          "correct": 2
+        },
+        {
+          "question": "Which characteristic allows Thermoacidophiles to thrive in extreme conditions?",
+          "options": ["They produce antifreeze proteins", "Their membrane lipids have ether bonds", "They possess a double nuclear membrane", "They undergo binary fission at room temperature"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following cell structures is involved in bacterial transformation, a process first demonstrated by Frederick Griffith?",
+          "options": ["Pili", "Capsule", "Cell membrane", "Plasmid"],
+          "correct": 3
+        },
+        {
+          "question": "Which kingdom in Whittaker’s classification includes organisms that are primarily autotrophic and possess cell walls made of cellulose?",
+          "options": ["Monera", "Protista", "Plantae", "Fungi"],
+          "correct": 2
+        },
+        {
+          "question": "Why do obligate anaerobic bacteria die in the presence of oxygen?",
+          "options": ["They lack enzymes to detoxify reactive oxygen species", "They use oxygen too rapidly and deplete their energy reserves", "Their cell walls disintegrate in the presence of oxygen", "Oxygen directly inhibits their DNA replication"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following statements about viral replication is incorrect?",
+          "options": ["Viruses can only replicate inside a host cell", "Viruses lack their own metabolic machinery", "All viruses use DNA as genetic material", "Some viruses integrate their genome into the host DNA"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following fungi is known for its role in producing immunosuppressive drugs?",
+          "options": ["Aspergillus", "Penicillium", "Saccharomyces", "Tolypocladium"],
+          "correct": 3
+        },
+        {
+          "question": "Which bacterial genus is widely used in genetic engineering due to its ability to form endospores and tolerate harsh conditions?",
+          "options": ["Bacillus", "Pseudomonas", "Mycobacterium", "Rhizobium"],
+          "correct": 0
+        },
+        {
+          "question": "What role do bacteriophages play in horizontal gene transfer among bacteria?",
+          "options": ["They mediate transduction by transferring DNA between bacteria", "They facilitate binary fission", "They act as vectors in bacterial transformation", "They prevent antibiotic resistance"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following algae groups is characterized by the presence of fucoxanthin pigment?",
+          "options": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Cyanobacteria"],
+          "correct": 1
+        },
+        {
+          "question": "Which type of bacteria is most commonly associated with bioluminescence?",
+          "options": ["Pseudomonas", "Vibrio", "Clostridium", "Mycobacterium"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following is a distinguishing feature of Basidiomycetes?",
+          "options": ["They reproduce only asexually", "They form basidiospores on a club-shaped structure", "They produce motile zoospores", "They have a coenocytic mycelium"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following statements about lichens is incorrect?",
+          "options": ["They are symbiotic associations of fungi and algae", "They are highly sensitive to air pollution", "They fix atmospheric nitrogen", "They produce spores for reproduction"],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary function of heterocysts in cyanobacteria?",
+          "options": ["Photosynthesis", "Nitrogen fixation", "Spore formation", "Motility"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following fungal diseases is caused by Aspergillus?",
+          "options": ["Ringworm", "Candidiasis", "Aspergillosis", "Blastomycosis"],
+          "correct": 2
+        },
+        {
+          "question": "Which structure allows bacteria to survive in nutrient-poor conditions for extended periods?",
+          "options": ["Capsule", "Plasmid", "Endospore", "Pili"],
+          "correct": 2
+        },
+        {
+          "question": "Which type of archaebacteria thrives in extremely saline environments?",
+          "options": ["Thermoacidophiles", "Methanogens", "Halophiles", "Cyanobacteria"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following bacteria is involved in the production of biofertilizers?",
+          "options": ["Lactobacillus", "Rhizobium", "Streptococcus", "Clostridium"],
+          "correct": 1
+        },
+        {
+          "question": "Which component of the bacterial cell wall is targeted by antibiotics like penicillin?",
+          "options": ["Peptidoglycan", "Lipopolysaccharide", "Phospholipid bilayer", "Teichoic acid"],
+          "correct": 0
+        },
+        {
+          "question": "Which statement about viroids is correct?",
+          "options": ["They contain a protein coat", "They consist only of naked RNA", "They infect both plants and animals", "They are larger than bacteria"],
+          "correct": 1
+        },
+        {
+          "question": "Which feature differentiates Euglena from typical algae?",
+          "options": ["It lacks chloroplasts", "It can switch between autotrophic and heterotrophic modes", "It has a chitinous cell wall", "It reproduces via binary fission only"],
+          "correct": 1
+        },
+        {
+          "question": "Which fungal division does the yeast Saccharomyces belong to?",
+          "options": ["Basidiomycota", "Ascomycota", "Zygomycota", "Deuteromycota"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following best explains why Gram-negative bacteria are more resistant to antibiotics?",
+          "options": ["They lack a cell wall", "They have a thick layer of peptidoglycan", "They possess an outer membrane rich in lipopolysaccharides", "They produce endospores"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following fungi is used extensively in industrial production of antibiotics?",
+          "options": ["Aspergillus", "Penicillium", "Mucor", "Saccharomyces"],
+          "correct": 1
+        },
+        {
+          "question": "Which property of prokaryotic ribosomes makes them a common target for antibiotics like tetracycline and erythromycin?",
+          "options": ["They lack a lipid membrane", "They have a 70S structure different from eukaryotic ribosomes", "They do not participate in protein synthesis", "They are only found in archaea"],
+          "correct": 1
+        },
+        {
+          "question": "Which characteristic of bacterial flagella differentiates them from eukaryotic flagella?",
+          "options": ["They are made of microtubules", "They exhibit a 9+2 arrangement", "They rotate like a propeller", "They are covered by a plasma membrane"],
+          "correct": 2
+        },
+        {
+          "question": "Which type of algae contributes significantly to marine primary productivity due to its silica-rich cell wall?",
+          "options": ["Chlorophyceae", "Phaeophyceae", "Diatoms", "Rhodophyceae"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following statements about plasmids is incorrect?",
+          "options": ["They are circular DNA molecules", "They replicate independently of the bacterial chromosome", "They always carry genes for antibiotic resistance", "They can be transferred between bacteria via conjugation"],
+          "correct": 2
+        },
+        {
+          "question": "Which structure in bacteria is responsible for mediating genetic recombination during conjugation?",
+          "options": ["Flagella", "Pili", "Ribosomes", "Capsule"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following components of a virus is directly responsible for determining host specificity?",
+          "options": ["Capsid proteins", "Envelope glycoproteins", "RNA polymerase", "Reverse transcriptase"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following fungi plays a crucial role in the production of cyclosporin, an immunosuppressant drug?",
+          "options": ["Penicillium", "Saccharomyces", "Tolypocladium", "Aspergillus"],
+          "correct": 2
+        },
+        {
+          "question": "What is the primary reason Mycobacterium tuberculosis is difficult to treat with antibiotics?",
+          "options": ["It is a Gram-negative bacterium", "It has a highly waxy cell wall rich in mycolic acids", "It lacks a cell wall", "It can only be treated with antifungal drugs"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following best describes the symbiotic relationship between Rhizobium and leguminous plants?",
+          "options": ["Commensalism", "Mutualism", "Parasitism", "Predation"],
+          "correct": 1
+        },
+        {
+          "question": "Which archaebacteria thrive in highly acidic environments and extremely high temperatures?",
+          "options": ["Halophiles", "Methanogens", "Thermoacidophiles", "Cyanobacteria"],
+          "correct": 2
+        },
+        {
+          "question": "Which type of spores do fungi produce asexually?",
+          "options": ["Basidiospores", "Ascospores", "Zoospores", "Zygospores"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following best explains the ability of diatoms to remain preserved in fossil records?",
+          "options": ["Their cell walls contain calcium carbonate", "Their cell walls are made of silica", "They reproduce only by spores", "They produce resistant endospores"],
+          "correct": 1
+        },
+        {
+          "question": "Which fungal division is commonly called 'imperfect fungi' due to the absence of a known sexual stage?",
+          "options": ["Basidiomycota", "Zygomycota", "Ascomycota", "Deuteromycota"],
+          "correct": 3
+        },
+        {
+          "question": "Which of the following algae is used in commercial production of agar?",
+          "options": ["Chlorophyceae", "Phaeophyceae", "Rhodophyceae", "Diatoms"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following is the primary reason archaebacteria are considered extremophiles?",
+          "options": ["They lack peptidoglycan in their cell walls", "They use sulfur as an energy source", "They survive in environments with extreme conditions", "They reproduce only asexually"],
+          "correct": 2
+        },
+        {
+          "question": "Which enzyme is essential for retroviruses like HIV to integrate their genome into host DNA?",
+          "options": ["Reverse transcriptase", "DNA polymerase", "RNA polymerase", "Ligase"],
+          "correct": 0
+        },
+        {
+          "question": "Which of the following explains why Gram-negative bacteria are often more resistant to antibiotics than Gram-positive bacteria?",
+          "options": ["They lack a cell membrane", "They have a thick peptidoglycan layer", "They possess an additional outer membrane containing lipopolysaccharides", "They cannot undergo binary fission"],
+          "correct": 2
+        },
+        {
+          "question": "Which component of bacterial cells is responsible for their rigid structure and prevents osmotic lysis?",
+          "options": ["Capsule", "Peptidoglycan", "Lipopolysaccharide", "Plasmid"],
+          "correct": 1
+        },
+        {
+          "question": "Which type of asexual reproduction is commonly observed in fungi like Rhizopus?",
+          "options": ["Binary fission", "Conjugation", "Fragmentation", "Sporulation"],
+          "correct": 3
+        },
+        {
+          "question": "Which of the following is a characteristic feature of dinoflagellates?",
+          "options": ["They have silica shells", "They possess two flagella", "They are exclusively autotrophic", "They reproduce only sexually"],
+          "correct": 1
+        },
+        {
+          "question": "Which of the following statements about viruses is incorrect?",
+          "options": ["They are obligate intracellular parasites", "They contain both DNA and RNA in their genome", "They lack cellular machinery for protein synthesis", "They can infect both prokaryotic and eukaryotic cells"],
+          "correct": 1
+        },
+        {
+          "question": "Which kingdom in Whittaker’s classification consists mostly of heterotrophic, multicellular organisms with chitinous cell walls?",
+          "options": ["Monera", "Protista", "Fungi", "Plantae"],
+          "correct": 2
+        },
+        {
+          "question": "Which of the following organisms does not belong to kingdom Monera?",
+          "options": ["Nostoc", "Escherichia", "Amoeba", "Streptococcus"],
+          "correct": 2
+        },
+        {
+          "question": "Which bacteria are responsible for nitrogen fixation in leguminous plants?",
+          "options": ["Azotobacter", "Clostridium", "Rhizobium", "Pseudomonas"],
+          "correct": 2
+        }
+      ]        
