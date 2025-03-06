@@ -114,3 +114,15 @@ function scrollToTop() {
 
 document.getElementById("prev-btn").addEventListener("click", scrollToTop);
 document.getElementById("next-btn").addEventListener("click", scrollToTop);
+document.getElementById("submit-btn").addEventListener("click", function() {
+    let scrollInterval = setInterval(function() {
+        let currentScroll = window.scrollY;
+        let maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+
+        if (currentScroll < maxScroll) {
+            window.scrollBy(0, 30); // Increase step size for faster scrolling
+        } else {
+            clearInterval(scrollInterval);
+        }
+    }, 10); // Adjust interval for smooth effect
+});
