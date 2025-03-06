@@ -102,3 +102,15 @@ function prevPage() {
     currentPage--;
     renderPage();
 }
+function scrollToTop() {
+    let scrollInterval = setInterval(function() {
+        if (window.scrollY > 0) {
+            window.scrollBy(0, -40); // Adjust step size for speed
+        } else {
+            clearInterval(scrollInterval);
+        }
+    }, 5); // Adjust interval time for smoothness
+}
+
+document.getElementById("prev-btn").addEventListener("click", scrollToTop);
+document.getElementById("next-btn").addEventListener("click", scrollToTop);
